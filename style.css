@@ -13,7 +13,7 @@ body {
   }
   
   .container {
-    padding: 200px 50px;
+    padding: 100px 50px;
   }
   
   .logo {
@@ -22,7 +22,7 @@ body {
   }
   
   .title {
-    font-size: 45px;
+    font-size: 35px;
     color: #730a2a;
     margin: 15px 30px;
     font-family: kalpurush;
